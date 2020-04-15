@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "住所"; ObjectID = "7f0-LY-ed1"; */
+"7f0-LY-ed1.text" = "住所";
+
+/* Class = "UIButton"; normalTitle = "設定"; ObjectID = "HbG-FL-Ymt"; */
+"HbG-FL-Ymt.normalTitle" = "設定";
+
+/* Class = "UITextField"; placeholder = "経度"; ObjectID = "IQa-7R-6W6"; */
+"IQa-7R-6W6.placeholder" = "経度";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "SPa-wh-M1v"; */
+"SPa-wh-M1v.normalTitle" = "OK";
+
+/* Class = "UITextField"; placeholder = "緯度"; ObjectID = "Y7K-jM-uJQ"; */
+"Y7K-jM-uJQ.placeholder" = "緯度";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "rGX-oo-21B"; */
+"rGX-oo-21B.text" = "Search";
